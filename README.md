@@ -2,6 +2,8 @@
 
 [My resume](/resume-MattLevinson.pdf)
 
+![image info](./profile_pic.jpeg)
+
 Senior Front-end Developer, Advisor Engine, Raleigh, NC August 2018 - Present
 - Led the front-end release of a new goals based planning tool using proprietary financial modeling
 apis
