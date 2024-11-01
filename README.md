@@ -1,18 +1,38 @@
-# malevinson.github.io
+### Seasoned Senior Front-End Engineer
+Senior Front-End Engineer with 8+ years of experience delivering high-performance, scalable applications for both startups and enterprises. I am passionate about writing maintainable, modular code, with a deep understanding of product workflows and user needs. I’ve led many new projects, mentored numerous developers, and am always striving to stay on the cutting end of web development.
 
-<br>
+[My resume](/resume-MattLevinson.pdf)
 
-## [My resume](/resume-MattLevinson.pdf)
 <br>
 
 ![image info](./profile_pic.jpeg)
 
+# My Portfolio ✨ 
+
+<br>
+
+### Software Architect IV, Charter Communications, Denver, CO Feb 2023 - Present
+- Designed and developed high-performance dashboards using React.js, Node.js, Express.js, MongoDB, and D3.js to visualize key business metrics for stakeholders
+- Scaled the application with AWS Elastic Load Balancer, implementing DataDog for monitoring, while minimizing costs
+- Built and secured REST API services, authenticated with Keycloak
+- Used modern React.js including hooks, redux, Typescript, react-hook-form, ES7, styled-components, and webpack to implement new features
+
+<br>
+
+![image info](./images/RTD_page1.jpg)
+<br>
+
+![image info](./images/RTD_page2.jpg)
+<br>
+
+![image info](./images/RTD_page3.jpg)
+
 <br>
 <br>
 <br>
 <br>
 
-### Senior Front-end Developer, Advisor Engine, Raleigh, NC August 2018 - Present
+### Senior Front-end Developer, Advisor Engine, Raleigh, NC August 2018 - Feb 2023
 - Built, maintained, and released NX.js monorepo for UI components, theming, utilities, testing
 - Led front-end releases of a goals based planning tool using proprietary financial modeling apis
 - Used modern React.js including hooks, redux, Typescript, react-hook-form, ES7, styled-components, and webpack to implement new features
