@@ -13,14 +13,11 @@
 <br>
 
 ### Senior Front-end Developer, Advisor Engine, Raleigh, NC August 2018 - Present
-- Led the front-end release of a new goals based planning tool using proprietary financial modeling
-apis
-- Used modern React.js including hooks, redux, Typescript, react-hook-form, ES7,
-styled-components, and webpack to implement new features
-- Built and maintained a new UI component library using storybook, rollup.js, and an internal design
-system
-- Refactored thousands of lines of code with a focus on modular, easy to read and test code
-- Integrated with large financial custodians, and synced with backend validation using swagger.io
+- Built, maintained, and released NX.js monorepo for UI components, theming, utilities, testing
+- Led front-end releases of a goals based planning tool using proprietary financial modeling apis
+- Used modern React.js including hooks, redux, Typescript, react-hook-form, ES7, styled-components, and webpack to implement new features
+- Refactored 10k+ of lines of code with a focus on modular, easy to read and test code
+
 
 <br>
 
