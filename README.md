@@ -1,7 +1,5 @@
-### Seasoned Senior Front-End Engineer
-Senior Front-End Engineer with 8+ years of experience delivering high-performance, scalable applications for both startups and enterprises. I am passionate about writing maintainable, modular code, with a deep understanding of product workflows and user needs. I’ve led many new projects, mentored numerous developers, and am always striving to stay on the cutting end of web development.
-
-[My resume](/resume-MattLevinson.pdf)
+### Seasoned Software Engineer / Full-Stack Developer
+Senior Software Engineer with 9+ years of experience delivering high-performance, scalable applications for both startups and enterprises. I am passionate about writing maintainable, modular code, with a deep understanding of product workflows and user needs. I’ve led many new projects, mentored numerous developers, and am always striving to stay on the cutting end of web development.
 
 <br>
 
@@ -12,11 +10,17 @@ Senior Front-End Engineer with 8+ years of experience delivering high-performanc
 <br>
 
 ### Software Architect IV, Charter Communications, Denver, CO Feb 2023 - Present
-- Designed and developed high-performance dashboards using React.js, Node.js, Express.js, MongoDB, and D3.js to visualize key business metrics for stakeholders
-- Scaled the application with AWS Elastic Load Balancer, implementing DataDog for monitoring, while minimizing costs
+- Utilized internal data pipeline and data enrichment team to present detailed streaming analytics events to key
+stakeholders and VPs in a real time dashboard
+-  Focused on critical impact areas such as buffering and authentication, as well as diagnostics for broken streams,
+batch api calls, streaming formats, etc.
+- Scaled with AWS Elastic Load Balancer, implementing DataDog for monitoring, while minimizing costs
+- Designed and developed various high-performance charts (map, bubble, pie, table, bar, line) using React.js,
+Node.js, Express.js, MongoDB, and D3.js
 - Built and secured REST API services, authenticated with Keycloak
-- Used modern React.js including hooks, redux, Typescript, react-hook-form, ES7, styled-components, and webpack to implement new features
-
+- Used modern React.js including hooks, Typescript, ES7 and webpack to implement new features
+- Enhanced decision making and saved teams hours of effort per week
+  
 <br>
 
 ![image info](./images/RTD_page1.jpg)
@@ -33,10 +37,12 @@ Senior Front-End Engineer with 8+ years of experience delivering high-performanc
 <br>
 
 ### Senior Front-end Developer, Advisor Engine, Raleigh, NC August 2018 - Feb 2023
-- Built, maintained, and released NX.js monorepo for UI components, theming, utilities, testing
+- Completely rebuild the client portal into a modern single page app using React
 - Led front-end releases of a goals based planning tool using proprietary financial modeling apis
-- Used modern React.js including hooks, redux, Typescript, react-hook-form, ES7, styled-components, and webpack to implement new features
-- Refactored 10k+ of lines of code with a focus on modular, easy to read and test code
+- Built, maintained, and released NX.js monorepo for UI components, theming, utilities, testing
+- Responsible for architectural decisions including security and scalability
+- Coordinated across several other teams w/ other parallel projects to keep npm libraries in sync
+- Ownership of D3.js component library for data visualizations	                                 
 
 
 <br>
@@ -58,7 +64,7 @@ Senior Front-End Engineer with 8+ years of experience delivering high-performanc
 <br>
 <br>
 
-### Front-end Developer, Organic, San Francisco, CA May 2018 - July 2018
+### Developer, Organic, San Francisco, CA May 2018 - July 2018
 - Built numerous consumer facing responsive websites for a major US bank
 - Used technologies including Reactjs, SASS, HTML, Handlebars, Styled-Components
 - Utilized Mapbox API to dynamically render 22,000 features, 10 layers, and custom search
