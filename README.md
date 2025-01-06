@@ -9,7 +9,7 @@ Senior Software Engineer with 9+ years of experience delivering high-performance
 
 <br>
 
-### Software Architect IV, Charter Communications, Denver, CO Feb 2023 - Present
+### Software Architect, Charter Communications, Denver, CO Feb 2023 - Present
 - Utilized internal data pipeline and data enrichment team to present detailed streaming analytics events to key
 stakeholders and VPs in a real time dashboard
 -  Focused on critical impact areas such as buffering and authentication, as well as diagnostics for broken streams,
