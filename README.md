@@ -64,7 +64,7 @@ Node.js, Express.js, MongoDB, and D3.js
 <br>
 <br>
 
-### Developer, Organic, San Francisco, CA May 2018 - July 2018
+### Software Developer, Organic, San Francisco, CA May 2018 - July 2018
 - Built numerous consumer facing responsive websites for a major US bank
 - Used technologies including Reactjs, SASS, HTML, Handlebars, Styled-Components
 - Utilized Mapbox API to dynamically render 22,000 features, 10 layers, and custom search
