@@ -1,5 +1,5 @@
 ### Seasoned Senior Software Engineer / Full-Stack Developer
-Senior Software Engineer with 9+ years of experience delivering high-performance, scalable applications for both startups and enterprises. I am passionate about writing maintainable, modular code, with a deep understanding of product workflows and user needs. I’ve led many new projects, mentored numerous developers, and am always striving to stay on the cutting end of web development.
+Senior Software Engineer with 9+ years of experience delivering high-performance, scalable applications for both startups and enterprises. I am passionate about writing maintainable, modular code, with a deep understanding of product workflows and user needs. I’ve led many new projects, mentored numerous developers, and am always striving to stay on the cutting edge of web development.
 
 <br>
 
