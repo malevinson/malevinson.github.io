@@ -105,3 +105,16 @@ debugging
 <br>
 
 ![image info](./images/TheGap_2017-2018_5.png)
+
+
+# My Projects ✨ 
+
+<br>
+
+## Hacker News React
+
+I used the Hacker News API for a better view of recent posts. The default sort is by Comment to Rating ratio which means that the most interesting and debatable articles are at the top. You can also sort by Rating, Comments, or Default.
+
+https://hn-react-9n5bahhwo-malevinson.vercel.app/
+
+
