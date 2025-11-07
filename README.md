@@ -117,10 +117,15 @@ I used the Hacker News API for a better view of recent posts. The default sort i
 
 https://hn-react-9n5bahhwo-malevinson.vercel.app/
 
+![image info](./images/hn-react.png)
+
 <br>
 
 ## Music Dashboard
 
-This app helps me organize and listen to my favorite artists. Sort your artists by ranking, name, date added, or randomly. Then pin a few to queue up those you want to listen to.
+This app helps me organize and track my favorite artists to listen to, mostly throughout the workday. Sort your artists by ranking, name, date added, or randomly. Then pin a few to queue up those you want to listen for the day or week. I eventually want to expand on this but 2 young kids are keeping me very busy. 
+
+![image info](./images/music-db.png)
+
 
 
