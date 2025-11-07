@@ -1,13 +1,14 @@
-### Seasoned Senior Software Engineer / Full-Stack Developer
+## Seasoned Senior Software Engineer / Full-Stack Developer
 Senior Software Engineer with 9+ years of experience delivering high-performance, scalable applications for both startups and enterprises. I am passionate about writing maintainable, modular code, with a deep understanding of product workflows and user needs. I’ve led many new projects, mentored numerous developers, and am always striving to stay on the cutting edge of web development.
 
 <br>
 
 ![image info](./profile_pic.jpeg)
 
-# My Portfolio ✨ 
-
 <br>
+<br>
+
+# My Portfolio ✨ 
 
 ### Software Architect, Charter Communications, Denver, CO Feb 2023 - Present
 - Utilized internal data pipeline and data enrichment team to present detailed streaming analytics events to key
@@ -113,13 +114,16 @@ debugging
 
 # My Projects ✨ 
 
-<br>
-
 ## Hacker News React
 
 I used the Hacker News API for a better view of recent posts. The default sort is by Comment to Rating ratio which means that the most interesting and debatable articles are at the top. You can also sort by Rating, Comments, or Default.
 
+<br>
+
 https://hn-react-9n5bahhwo-malevinson.vercel.app/
+
+<br>
+<br>
 
 ![image info](./images/hn-react.png)
 
@@ -127,7 +131,11 @@ https://hn-react-9n5bahhwo-malevinson.vercel.app/
 
 ## Music Dashboard
 
-This app helps me organize and track my favorite artists to listen to, mostly throughout the workday. Sort your artists by ranking, name, date added, or randomly. Then pin a few to queue up those you want to listen for the day or week. I eventually want to expand on this but 2 young kids are keeping me very busy. Unfortunately this is not publically available yet. I am working on a serverless version now that will be extremly cheap and performant :).
+This app helps me organize and track my favorite artists to listen to, mostly throughout the workday. Sort your artists by ranking, name, date added, or randomly. Then, pin a few to queue up those you want to listen for the day or week.
+
+I eventually want to expand on this but 2 young kids are keeping me very busy. Unfortunately this is not publically available yet. I am working on a serverless version now that will be extremly cheap and performant :).
+
+<br>
 
 ![image info](./images/music-db.png)
 
