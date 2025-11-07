@@ -106,6 +106,10 @@ debugging
 
 ![image info](./images/TheGap_2017-2018_5.png)
 
+<br>
+<br>
+<br>
+<br>
 
 # My Projects ✨ 
 
@@ -123,7 +127,7 @@ https://hn-react-9n5bahhwo-malevinson.vercel.app/
 
 ## Music Dashboard
 
-This app helps me organize and track my favorite artists to listen to, mostly throughout the workday. Sort your artists by ranking, name, date added, or randomly. Then pin a few to queue up those you want to listen for the day or week. I eventually want to expand on this but 2 young kids are keeping me very busy. 
+This app helps me organize and track my favorite artists to listen to, mostly throughout the workday. Sort your artists by ranking, name, date added, or randomly. Then pin a few to queue up those you want to listen for the day or week. I eventually want to expand on this but 2 young kids are keeping me very busy. Unfortunately this is not publically available yet. I am working on a serverless version now that will be extremly cheap and performant :).
 
 ![image info](./images/music-db.png)
 
